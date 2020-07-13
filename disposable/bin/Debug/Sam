@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Sam</Name>
+  <Age>18</Age>
+  <Gender>male</Gender>
+  <FavouriteTVChanels>
+    <int>0</int>
+    <int>21</int>
+    <int>56</int>
+    <int>2</int>
+  </FavouriteTVChanels>
+</Person>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Cars>
+  <Car Name="Octane">
+    <Hitbox>Octane</Hitbox>
+    <TurnRadius>Octane</TurnRadius>
+  </Car>
+  <Car Name="Dominus">
+    <Hitbox>Dominus</Hitbox>
+    <TurnRadius>Dominus</TurnRadius>
+  </Car>
+  <Car Name="Takumi">
+    <Hitbox>Octane</Hitbox>
+    <TurnRadius>Octane</TurnRadius>
+  </Car>
+</Cars>

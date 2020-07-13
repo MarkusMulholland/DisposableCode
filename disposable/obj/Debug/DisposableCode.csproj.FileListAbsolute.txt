@@ -1,0 +1,9 @@
+C:\Users\Markus\source\repos\DisposableCode\DisposableCode\bin\Debug\DisposableCode.exe.config
+C:\Users\Markus\source\repos\DisposableCode\DisposableCode\bin\Debug\DisposableCode.exe
+C:\Users\Markus\source\repos\DisposableCode\DisposableCode\bin\Debug\DisposableCode.pdb
+C:\Users\Markus\source\repos\DisposableCode\DisposableCode\obj\Debug\DisposableCode.csprojAssemblyReference.cache
+C:\Users\Markus\source\repos\DisposableCode\DisposableCode\obj\Debug\DisposableCode.csproj.CoreCompileInputs.cache
+C:\Users\Markus\source\repos\DisposableCode\DisposableCode\obj\Debug\DisposableCode.exe
+C:\Users\Markus\source\repos\DisposableCode\DisposableCode\obj\Debug\DisposableCode.pdb
+C:\Users\Markus\source\repos\DisposableCode\DisposableCode\bin\Debug\DbDisposableCode.mdf
+C:\Users\Markus\source\repos\DisposableCode\DisposableCode\bin\Debug\DbDisposableCode_log.ldf
